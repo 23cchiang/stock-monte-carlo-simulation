@@ -15,7 +15,6 @@ where:
 - Python
 - NumPy
 - Matplotlib
-- test
 
 ## Example Output
 
